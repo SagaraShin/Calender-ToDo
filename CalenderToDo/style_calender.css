@@ -1,0 +1,19 @@
+h2,h3{
+  text-align: center;
+  color: rgb(21, 189, 240);
+  /* background-color: red; */
+}
+
+
+.month_move{
+  /* background-color: red;  */
+  margin-left: 150px;
+  padding:0 100px 0 100px;
+  color: rgb(21, 189, 240);
+}
+.table{
+  margin-top: 100px;
+}
+.calender_day{
+  color: rgb(21, 189, 240);
+}
